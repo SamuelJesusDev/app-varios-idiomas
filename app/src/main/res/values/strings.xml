@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">appVariosIdiomas</string>
+    <string name="main">Olá, você está no idioma português.</string>
+    <string name="button">Seja bem-vindo ao aplicativo.</string>
 </resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">appVariosIdiomas</string>
+    <string name="main">Hello, you are in the English language.</string>
+    <string name="button">Welcome to the app.</string>
+</resources>
