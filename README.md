@@ -1,7 +1,7 @@
 <h1 align="center">Aplicação de Vários Idiomas Android</h1>
 
 <p align="center">
-  <img src="https://github.com/SamuelJesusDev/app-varios-idiomas/assets/67060353/aeeff20c-2041-4620-97f8-2d993e9fc467" alt="Captura de tela de 2023-08-24 10-51-25">
+  <img src="https://github.com/SamuelJesusDev/app-varios-idiomas/assets/67060353/fef509b1-5c1a-4e27-b7c5-5f584cd35009" alt="Tela do app">
 </p>
 
 ## Visão Geral
